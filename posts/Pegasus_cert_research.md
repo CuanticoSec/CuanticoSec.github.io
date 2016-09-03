@@ -93,7 +93,7 @@ The **ca.crt** file is a [self-signed root CA certificate](https://blogs.msdn.mi
 
 The certificate's contents are included at the end of [Lookout's analysis](https://info.lookout.com/rs/051-ESQ-475/images/lookout-pegasus-technical-analysis.pdf) on page 32.
 
-A slightly cleaned-up text version of the certificate's data is provided here: **TODO: link file**
+A slightly cleaned-up text version of the certificate's data is provided [here](Pegasus_ca-crt.txt).
 
 ---
 ___
