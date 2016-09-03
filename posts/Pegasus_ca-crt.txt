@@ -1,0 +1,21 @@
+Pegasus ca.crt
+
+
+Certificate:
+	Data:
+		Version: 1 (0x0)
+		Serial Number:	 a9:c2:dc:41:57:dc:50:14
+		Signature Algorithm: sha256WithRSAEncryption
+		Issuer: CN=Asterisk Private CA, O=My Super Company
+	Validity
+		Not Before: Jul 18 11:21:53 2016 GMT
+		Not After : Jul 17 11:21:53 2021 GMT
+	Subject: CN=Asterisk Private CA, O=My Super Company
+	Subject Public Key Info:
+		Public Key Algorithm: rsaEncryption
+		RSA Public Key: (4096 bit)
+			Modulus (4096 bit):
+00:b0:8e:1b:24:7e:b4:d6:10:ab:10:fd:ce:a1:eb:2d:d7:c8:38:d3:ce:bb:a3:9a:30:0e:72:08:46:01:2d:c5:3e:3e:82:c1:4a:4e:a7:44:d8:94:2b:30:0c:dd:c3:b3:6b:bf:69:d2:0d:01:6c:e1:c5:db:f0:7c:50:3b:ba:cc:47:64:63:67:bf:50:62:49:33:74:d1:c4:57:e8:57:2b:6c:4b:b5:63:81:66:7b:cf:0e:c2:92:80:f9:ce:d9:e9:f5:f2:95:18:77:d7:24:47:62:ff:2d:bc:09:fa:f4:4d:92:53:df:85:cc:38:39:9f:14:ef:16:f1:6d:63:47:c9:44:1e:6a:0a:70:00:bd:92:a5:c2:ec:d1:8d:02:bf:ae:cb:8b:5e:03:8a:67:d0:ee:02:80:b7:a7:94:9f:b5:0f:dc:3a:d6:ea:ec:3d:8d:3e:ae:e9:54:f1:39:a4:fc:53:01:ad:ce:6a:e6:56:53:fe:7d:92:0f:5c:0b:0a:03:18:94:aa:4e:fc:8d:f0:69:ee:a2:c1:a9:0c:6d:1e:69:78:28:73:69:e4:aa:ca:b0:0f:49:d9:ca:b2:71:72:d9:25:ec:3e:6c:c0:10:68:aa:a3:b6:71:fd:69:f3:d0:4e:c2:24:3f:69:1f:5a:5d:5e:02:8f:67:e7:40:52:1f:34:17:7a:47:c8:6e:d1:fc:d2:99:6a:97:c5:1b:c1:87:2a:4f:04:f7:7a:33:dc:3a:d0:be:5e:67:26:b7:d1:4e:0e:fa:d4:78:44:ef:e1:a2:a5:fa:f3:ae:e4:9b:5f:34:a5:9b:45:b0:dc:ca:a0:19:94:6f:c3:c1:0a:79:84:35:a3:ad:2d:33:82:28:8a:e2:97:f1:82:2c:49:80:ef:ae:10:d4:cf:83:ed:b3:0c:58:e8:1c:74:7d:12:30:e6:bc:fb:08:b7:04:44:51:5e:95:4d:17:d3:e7:8e:ab:93:88:7f:7f:91:01:c9:d4:61:15:8b:6f:23:41:49:58:e4:bd:81:d9:90:07:8a:c0:99:da:2f:f0:21:f1:96:52:7e:a5:5e:69:3d:1a:da:b0:19:24:7e:d6:5a:98:b6:4a:18:54:1f:b9:e5:ed:63:d5:e6:6d:1c:67:59:91:52:14:55:aa:94:86:b1:77:43:fe:b4:5c:d6:8b:57:e1:cf:de:84:37:4f:7a:26:0b:92:ec:c1:3c:9c:45:31:b9:b6:ad:ef:4e:51:73:53:96:06:16:9d:e8:67:d1:8e:08:aa:1a:93:0f:7e:fc:8a:f0:9d:ed:13:db:dd:ab:78:5e:32:99:ac:41:b6:09:75:a8:9c:ff:6e:72:95:44:e8:dc:38:30:e3:21:81:0b:bf
+			Exponent: 65537 (0x10001)
+Signature Algorithm: sha256WithRSAEncryption
+7e:ce:86:7c:1d:d7:10:b6:67:11:a0:1a:be:01:34:b8:12:f5:61:2a:af:a6:30:94:dd:35:6f:fb:80:aa:4d:a1:80:9b:80:63:d7:02:71:8d:07:4f:57:94:03:bd:1c:b8:44:83:08:6b:be:72:47:e4:bc:d7:51:ce:ee:3f:30:84:d9:eb:41:3d:7f:9c:6b:37:58:d2:94:71:be:38:dc:97:fb:0e:60:2b:d1:88:e4:72:74:6f:85:3a:60:84:f1:58:40:2c:9d:5e:f7:a9:4b:3e:aa:6a:ed:08:d8:4c:d1:33:1f:5d:ff:b9:6e:98:9f:71:6b:19:50:6d:c3:58:dd:15:76:e3:d9:80:df:da:c3:55:11:f6:cb:6a:08:64:c1:8d:f9:f6:d3:c3:30:61:bd:55:4f:34:88:96:0c:ea:96:6a:37:14:b0:f2:8f:5e:16:fa:ca:9a:28:7c:68:e1:6f:07:f3:a1:7d:a4:a4:40:5c:c6:e9:ce:98:a2:95:b2:09:93:ba:b5:a3:62:38:7d:d3:9f:1d:36:2d:29:4a:c6:96:a8:d1:2d:de:a9:2a:8b:43:33:d5:f1:a5:71:10:32:33:a0:fa:8b:4e:04:d4:12:4f:26:1f:d8:82:27:cc:c2:a9:17:a7:65:3d:3c:45:42:77:5a:c0:10:6e:57:d2:84:89:45:bc:49:5f:be:0d:cc:ec:21:6c:06:16:f1:43:8f:58:ce:93:68:7e:46:ea:fd:db:e0:9b:42:44:52:66:f8:01:d7:29:7a:61:b6:be:13:94:48:02:bc:68:34:46:73:91:64:76:95:14:08:ba:9e:41:59:76:83:ab:88:c3:60:74:75:37:34:08:24:91:2f:ba:81:65:d3:b8:a8:b4:28:79:71:ad:7c:95:db:7e:9c:6b:30:44:3a:b6:b1:66:83:ab:1c:a5:77:f7:63:d1:da:30:a0:2e:65:d4:0c:c4:ec:8d:d3:4c:32:e8:71:e5:25:2b:81:97:cc:ad:c9:f2:d9:7d:01:48:10:7c:86:51:db:39:da:f3:64:0a:1d:b2:35:d8:21:2e:27:7c:c7:b3:8f:28:14:95:90:5c:17:1f:7b:7c:a2:e8:18:4a:31:39:89:dc:8b:56:99:df:d0:26:0a:85:70:e8:e1:d0:ad:59:92:35:98:a5:7d:4f:51:46:2a:3a:cf:85:79:5d:07:63:44:6c:a4:81:82:d8:d5:40:32:95:ac:d8:77:c3:af:8b:fc:ad:2b:ef:04:87:80:0c:dd:c0:ec:87:2d:1f:06:51:8f:da:71:1b:f6:c4:17:5a:6f:e6:f2:b2:d4:90:b9:76:a7:e8:71:56:30:33:4f:58:15:b6:2b
