@@ -192,7 +192,7 @@ CN stands for Common Name.  For legitimate certificates used by websites this fi
 
 The earliest Google search result for **CN=Asterisk Private CA** is from Oct 21, 2010:  https://reviewboard.asterisk.org/r/979/diff/
 
-That page contains the original version of a Linux Bash script that's been incorporated info Asterisk.  The script invokes OpenSSL to create the different X.509 certificates and files that Asterisk uses to encrypt VoIP calls.  **Asterisk Private CA** is a default value included in the script that is applied to root CA certificates if the user does not override it.  See **Section 5.3** for more details about the script.
+That page contains the original version of a Linux Bash script that's been incorporated into Asterisk.  The script invokes OpenSSL to create the different X.509 certificates and files that Asterisk uses to encrypt VoIP calls.  **Asterisk Private CA** is a default value included in the script that is applied to root CA certificates if the user does not override it.  See **Section 5.3** for more details about the script.
 
 
 Searching Censys.io (https://censys.io/certificates?q=%22Asterisk+Private+CA%22) for certificates containing **Asterisk Private CA** yields 143 results.
@@ -252,6 +252,7 @@ DEFAULT_CA_CN="Asterisk Private CA"
 
 * The tutorial provides **My Super Company** for the Org Name, and the Pegasus certificate uses **My Super Company**.  However, the script defaults the Org Name to **Asterisk** if no Org Name is defined in the command line.  The script does not include the string **My Super Company** at all.
   * ∴	If the `ast_tls_cert` script was used to make the certificate, the  creator included the option `-O "My Super Company"`.
+
 ---
 ### 5.5 The script's OpenSSL options vs. Pegasus
 
