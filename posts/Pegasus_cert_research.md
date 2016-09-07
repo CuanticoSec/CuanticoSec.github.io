@@ -347,7 +347,7 @@ ___
 ## 6. Unanswered (unanswerable?) questions:
 
 #### **Asterisk Private CA & My Super Company**
-  * Why does the Pegasus spyware use a certificate with a non-unique or non-traceable Common Name and Org Name?
+  * Why does the Pegasus spyware use a certificate with a non-unique / traceable Common Name and Org Name?
   * Why is the certificate's Common Name the Asterisk script's default value but the Org Name is a user-supplied value?
 
 #### **Asterisk software**
